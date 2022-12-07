@@ -1,0 +1,12 @@
+{
+  "name": "seventv-apis",
+  "version": "0.0.1",
+  "description": "Monorepo for npm libraries binding to 7tv's APIs",
+  "repository": "https://github.com/devJimmyboy/SevenTV-APIs",
+  "author": "devJimmyboy",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

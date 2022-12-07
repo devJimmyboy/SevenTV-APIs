@@ -1,0 +1,12 @@
+{
+  "name": "@stv/common",
+  "version": "0.0.1",
+  "description": "Common types and utilities used around the @stv packages",
+  "main": "dist/index.js",
+  "author": "devJimmyboy",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "klona": "^2.0.5"
+  }
+}

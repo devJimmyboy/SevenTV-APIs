@@ -1,0 +1,14 @@
+{
+  "references": [
+    {
+      "path": "./packages/api"
+    },
+    {
+      "path": "./packages/common"
+    },
+    {
+      "path": "./packages/events"
+    }
+  ],
+  "files": []
+}
